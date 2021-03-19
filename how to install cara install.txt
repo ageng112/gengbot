@@ -1,4 +1,3 @@
-![logo](https://user-images.githubusercontent.com/79284980/110831365-bebe1680-82cc-11eb-9d82-d6fe4d131222.jpg)
 ------------------------------------
 Versi Indonesia
 
@@ -32,9 +31,3 @@ How To Install This Script
 Scan Qr Code On WhatsApp Web
 Done:)
 Happy Playing Bot:)
-------------------------------------
-DONASI
-
-DANA : 085876330812
-
-PULSA : 085876330812
